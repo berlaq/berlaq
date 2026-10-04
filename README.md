@@ -39,15 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkayhaberal&show_icons=true&theme=tokyonight" alt="Berkay's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayhaberal&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
-
----
-
 <p align="center">
   <img src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" height="180" alt="Pepe Dance" />
 </p>
