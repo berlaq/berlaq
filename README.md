@@ -1,13 +1,5 @@
 <h2 align="left">Hi 👋! My name is Berkay and I'm a Software Developer, from Turkiye🔥🔥</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=berlaq" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" width="72" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" width="72" alt="java logo"  />
